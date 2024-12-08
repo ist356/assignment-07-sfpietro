@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  sofia
+Sudent Email:  sfpietro@syr.edu
 
 ## Instructions
 
@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+Still getting the hang of web scraping not sure if I fully get it. Needed a lot of guidance on this one.
